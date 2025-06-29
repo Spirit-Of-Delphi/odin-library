@@ -1,0 +1,17 @@
+#form-container {
+  background: skyblue;
+  padding: 1rem;
+  margin: 1rem;
+  border: 2px solid steelblue;
+}
+
+#library-container {
+  margin: 1rem;
+}
+
+.book-container {
+  background: lightgreen;
+  margin: 1rem 0;
+  padding: 1rem;
+  border: 2px solid steelblue;
+}
